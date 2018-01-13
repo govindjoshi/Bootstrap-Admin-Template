@@ -1,0 +1,1000 @@
+   79  2018-01-07 11:37:00 svn help
+   80  2018-01-07 11:37:12 svn info
+   81  2018-01-07 11:37:40 svn status
+   82  2018-01-07 11:37:49 $PATH
+   83  2018-01-07 11:38:01 pwd
+   84  2018-01-07 11:38:26 svn log
+   85  2018-01-07 11:43:22 co https://develop.svn.wordpress.org/trunk/ .
+   86  2018-01-07 11:43:30 sudo svn co https://develop.svn.wordpress.org/trunk/ .
+   87  2018-01-07 11:46:18 kate wp-config-sample.php 
+   88  2018-01-07 11:48:15 ls -la
+   89  2018-01-07 12:01:26 grep -R "DocuemntRoot" /etc/apache2/site-enabled
+   90  2018-01-07 12:22:06 cd /opt/lampp/
+   91  2018-01-07 12:22:18 ./xampp restart
+   92  2018-01-07 12:30:04 cd /opt/lampp/etc/
+   93  2018-01-07 12:30:06 ls -la
+   94  2018-01-07 12:30:18 cd xampp/
+   95  2018-01-07 12:30:22 ls -la
+   96  2018-01-07 12:30:25 cd..
+   97  2018-01-07 12:30:26 ls 
+   98  2018-01-07 12:30:30 ls -la
+   99  2018-01-07 12:30:35 cd..
+  100  2018-01-07 12:30:37 ls -la
+  101  2018-01-07 12:30:49 cd apache2/
+  102  2018-01-07 12:30:51 ls -la
+  103  2018-01-07 12:30:56 cd.. 
+  104  2018-01-07 12:31:02 find .htaccesss
+  105  2018-01-07 12:31:03 find .htaccess
+  106  2018-01-07 12:31:09 find . .htaccess
+  107  2018-01-07 12:32:21 cd..
+  108  2018-01-07 12:32:28 find --help
+  109  2018-01-07 12:33:37 find -R /opt/lampp/ .htaccess
+  110  2018-01-07 12:33:44 find -H /opt/lampp/ .htaccess
+  111  2018-01-07 12:33:49 find /opt/lampp/ .htaccess
+  112  2018-01-07 12:33:55 find /opt/lampp/ htaccess
+  113  2018-01-07 12:36:02 cd ~/wordpress-svn/
+  114  2018-01-07 12:36:04 ls -la
+  115  2018-01-07 12:36:59 mv --help
+  116  2018-01-07 12:37:40 cd ~/wordpress-svn/ /opt/lampp/htdocs/
+  117  2018-01-07 12:37:49 mv ~/wordpress-svn/ /opt/lampp/htdocs/
+  118  2018-01-07 12:37:54 cd /opt/lampp/
+  119  2018-01-07 12:38:00 cd htdocs/wordpress-svn/
+  120  2018-01-07 12:38:01 ls -la
+  121  2018-01-07 12:38:22 sudo svn co https://develop.svn.wordpress.org/trunk/ .
+  122  2018-01-07 12:38:40 svn up
+  123  2018-01-07 12:39:22 svn help
+  124  2018-01-07 12:39:32 svn add 
+  125  2018-01-07 12:39:37 svn help add 
+  126  2018-01-07 12:40:01 svn add .
+  127  2018-01-07 12:41:44 ls -la
+  128  2018-01-07 12:42:02 find .hta
+  129  2018-01-07 12:42:07 find .
+  130  2018-01-07 12:42:15 cd.
+  131  2018-01-07 12:42:18 cd .
+  132  2018-01-07 12:42:24 ls -;a
+  133  2018-01-07 12:42:26 ls -la
+  134  2018-01-07 12:43:10 cd..
+  135  2018-01-07 12:43:20 ./xampp status
+  136  2018-01-07 12:43:26 ./xampp start
+  137  2018-01-07 12:47:01 svn status
+  138  2018-01-07 12:47:17 cd /opt/lampp/htdocs/wordpress-svn/
+  139  2018-01-07 12:47:23 svn status 
+  140  2018-01-07 12:54:02 ls -la
+  141  2018-01-07 12:54:09 cd..
+  142  2018-01-07 12:54:12 ls -la
+  143  2018-01-07 12:54:37 cd..
+  144  2018-01-07 12:54:40 ls -la
+  145  2018-01-07 12:54:53 find -R .htaccess
+  146  2018-01-07 12:54:58 find -H .htaccess
+  147  2018-01-07 12:55:01 find .htaccess
+  148  2018-01-07 12:55:04 find . .htaccess
+  149  2018-01-07 13:04:24 cd htdocs/
+  150  2018-01-07 13:04:29 find wordpress-svn/
+  151  2018-01-07 13:04:54 chown x me:users  wordpress-svn/
+  152  2018-01-07 13:04:58 chown -x me:users  wordpress-svn/
+  153  2018-01-07 13:05:04 chown --help
+  154  2018-01-07 13:06:06 chown -R CURRENT_OWNER:CURRENT_ROOT  wordpress-svn/
+  155  2018-01-07 13:06:18 chown -r me:users  wordpress-svn/
+  156  2018-01-07 13:06:23 chown -R me:users  wordpress-svn/
+  157  2018-01-07 13:12:52 chown -R me:users  wordpress-svn/src/wp-content/uploads/
+  158  2018-01-07 13:13:11 ls -la wordpress-svn/src/wp-content/
+  159  2018-01-07 13:25:13 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  160  2018-01-07 13:30:02 cat /etc/passwd
+  161  2018-01-07 13:30:46 cat /etc/sh
+  162  2018-01-07 13:30:48 cat /etc/shadow
+  163  2018-01-07 13:34:12 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  164  2018-01-07 13:34:57 chmod 777 wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  165  2018-01-07 13:35:20 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  166  2018-01-07 13:37:40 chmod 777 /home/me/Downloads/DEVELOPMENT_TOOLS/Appai_v1.1.2_kingstheme.com/
+  167  2018-01-07 14:19:04 chown -R  me:users  /home/me/Downloads/DEVELOPMENT_TOOLS/Appai_v1.1.2_kingstheme.com/theme-files/appai.zip 
+  168  2018-01-07 14:19:20 chmod 777  /home/me/Downloads/DEVELOPMENT_TOOLS/Appai_v1.1.2_kingstheme.com/theme-files/appai.zip 
+  169  2018-01-07 14:20:06 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  170  2018-01-07 14:20:57 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai1.zip 
+  171  2018-01-07 14:21:02 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai-1.zip 
+  172  2018-01-07 14:22:59 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  173  2018-01-07 14:23:26 chmod 777 wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  174  2018-01-07 14:23:29 chown -R me:users wordpress-svn/src/wp-content/uploads/2018/01/appai.zip 
+  175  2018-01-07 14:30:47 history | history07012018.txt
+  176  2018-01-07 14:30:59 history > history07012018.txt
+  177  2018-01-07 14:36:30 cd /opt/lampp/
+  178  2018-01-07 14:36:32 ls -la
+  179  2018-01-07 14:36:41 ./xampp start
+  180  2018-01-07 14:54:53 id daemon
+  181  2018-01-07 14:55:06 sudo userdel --help
+  182  2018-01-07 14:55:20 users --help
+  183  2018-01-07 14:55:36 users
+  184  2018-01-07 14:55:46 id --help
+  185  2018-01-07 14:56:50 users
+  186  2018-01-07 14:56:56 id daemon 
+  187  2018-01-07 14:57:00 id daemon  status
+  188  2018-01-07 14:57:06 id --help
+  189  2018-01-07 14:57:17 id --context 
+  190  2018-01-07 15:04:56 sudo userdel daemon 
+  191  2018-01-07 15:05:05 ps
+  192  2018-01-07 15:05:21 ps --help
+  193  2018-01-07 15:05:36 ps threads
+  194  2018-01-07 15:05:47 ps
+  195  2018-01-07 15:05:50 ps --help
+  196  2018-01-07 15:06:02 ps all
+  197  2018-01-07 15:06:32 ps 289
+  198  2018-01-07 15:06:37 ps 2849
+  199  2018-01-07 15:09:05 setfacl
+  200  2018-01-07 15:09:09 setfacl --help
+  201  2018-01-07 15:12:57 ./xampp restart
+  202  2018-01-07 15:13:14 ps 
+  203  2018-01-07 15:13:20 ps all
+  204  2018-01-07 16:50:28 svn status
+  205  2018-01-07 16:51:02 cd /opt/lampp/htdocs/wordpress-svn/
+  206  2018-01-07 16:51:05 svn status
+  207  2018-01-07 16:51:26 cd src/
+  208  2018-01-07 16:51:28 svn status
+  209  2018-01-07 16:51:32 cd
+  210  2018-01-07 16:51:37 cd /opt/lampp/htdocs/wordpress-svn/
+  211  2018-01-07 16:51:41 cd src/
+  212  2018-01-07 16:51:46 svn status 
+  213  2018-01-07 16:51:52 cd..
+  214  2018-01-07 16:51:55 svn status 
+  215  2018-01-07 16:52:15 exit
+  216  2018-01-07 21:02:16 curl -0 www.google.com
+  217  2018-01-07 21:02:53 curl -0 https://www.youtube.com/yts/jsbin/scheduler-vflfK96zO/scheduler.js
+  218  2018-01-07 21:03:17 curl -0 https://i.ytimg.com/i/OpNcN46UbXVtpKMrmU4Abg/1.jpg
+  219  2018-01-07 21:15:08 clear
+  220  2018-01-07 21:17:11 ifconfig
+  221  2018-01-07 21:19:48 cd /opt/lampp/
+  222  2018-01-07 21:19:55 ./xampp start
+  223  2018-01-07 21:21:04 ifconfig lo
+  224  2018-01-07 21:21:24 ifconfig wlan0
+  225  2018-01-07 21:26:34 ping google.com
+  226  2018-01-07 21:29:10 nmap localhost
+  227  2018-01-07 21:29:30 nmapnmap\
+  228  2018-01-07 21:29:37 nmap
+  229  2018-01-07 21:29:44 cnf nmap
+  230  2018-01-07 21:29:58 sudo zypper install nmap
+  231  2018-01-07 21:31:31 nmap localhost
+  232  2018-01-07 21:33:24 MAC 
+  233  2018-01-07 21:33:43 ifconfig
+  234  2018-01-08 11:24:19 cd /opt/lampp/
+  235  2018-01-08 11:24:25 ./xampp statr
+  236  2018-01-08 11:24:29 ./xampp start
+  237  2018-01-08 11:24:42 scd wrod
+  238  2018-01-08 11:24:48 scd htdocs/wordpress-svn/
+  239  2018-01-08 11:24:52 cd htdocs/wordpress-svn/
+  240  2018-01-08 11:24:56 svn start
+  241  2018-01-08 11:25:01 svn status
+  242  2018-01-08 11:25:14 snv add appai.zip 
+  243  2018-01-08 11:25:19 svn add appai.zip 
+  244  2018-01-08 11:25:30 snv help
+  245  2018-01-08 11:25:36 svn help
+  246  2018-01-08 11:25:43 svn commit
+  247  2018-01-08 11:42:04 ls -la /opt/lampp/htdocs/wordpress-svn/
+  248  2018-01-08 11:42:17 rm appai.zip
+  249  2018-01-08 11:42:27 svn status
+  250  2018-01-08 11:42:32 svn commit
+  251  2018-01-08 11:42:52 svn help
+  252  2018-01-08 11:43:01 svn delete appai
+  253  2018-01-08 11:43:04 svn delete appai.zip
+  254  2018-01-08 11:43:10 svn commit
+  255  2018-01-08 11:44:23 ps
+  256  2018-01-08 11:44:34 ps 4554 start
+  257  2018-01-08 11:44:42 ps --help
+  258  2018-01-08 11:44:57 ps 4554
+  259  2018-01-08 11:45:09 svn commit S
+  260  2018-01-08 11:45:23 svn cleanup
+  261  2018-01-08 11:45:33 svn statu
+  262  2018-01-08 11:45:34 svn status
+  263  2018-01-08 11:45:59 cd src
+  264  2018-01-08 11:46:01 ls -la
+  265  2018-01-08 11:46:05 svn
+  266  2018-01-08 11:46:09 svn status
+  267  2018-01-08 11:46:13 cd..
+  268  2018-01-08 11:46:17 svn status
+  269  2018-01-08 11:46:25 svn commit
+  270  2018-01-08 11:47:57 cd src
+  271  2018-01-08 11:48:01 svn start
+  272  2018-01-08 11:48:05 svn help
+  273  2018-01-08 11:48:16 svn add src
+  274  2018-01-08 11:48:37 svn add cd..
+  275  2018-01-08 11:48:41 cd..
+  276  2018-01-08 11:48:46 svn add src/
+  277  2018-01-12 10:20:07 cd ~/Downloads
+  278  2018-01-12 10:20:16 cd home/me/Downloads
+  279  2018-01-12 10:20:33 cd /home/me/Downloads/
+  280  2018-01-12 10:20:39 winrar --help
+  281  2018-01-12 10:20:48 cnf rar
+  282  2018-01-12 10:27:53 rar x \[FreeTutorials.Us\]\ Udemy\ -\ CVS/ 
+  283  2018-01-12 10:28:01 unrar x \[FreeTutorials.Us\]\ Udemy\ -\ CVS/ 
+  284  2018-01-12 10:29:21 cd..
+  285  2018-01-12 10:29:39 ls -la
+  286  2018-01-12 10:30:03 unrar -help
+  287  2018-01-12 10:30:12 unrar --help
+  288  2018-01-12 10:30:16 unrar help
+  289  2018-01-12 10:31:31 unrar man
+  290  2018-01-12 10:37:04 unzip /home/me/FreeTutorials.Us\ git-complete.zip 
+  291  2018-01-12 10:39:32 ls -;a
+  292  2018-01-12 10:39:34 ls -la
+  293  2018-01-12 10:39:43 ls -la bin/
+  294  2018-01-12 10:40:42 unzip --help
+  295  2018-01-12 10:43:13 unzip /home/me/FreeTutorials.Us\ git-complete.zip -d /home/me/Downloads/DEVELOPMENT_TOOLS/GITCOMPLETE
+  296  2018-01-12 11:35:48 rcs
+  297  2018-01-12 11:35:51 cnf rcs
+  298  2018-01-12 11:35:58 zypper install rcs
+  299  2018-01-12 11:37:23 ci
+  300  2018-01-12 11:37:43 cd /home/me/Downloads/DEVELOPMENT_TOOLS/
+  301  2018-01-12 11:37:51 rcs 
+  302  2018-01-12 11:37:56 rcs --help
+  303  2018-01-12 11:38:12 rcs --command
+  304  2018-01-12 11:39:02 CD ..
+  305  2018-01-12 11:39:05 cd
+  306  2018-01-12 11:39:52 cd /home/me/DEVELOPMENT/
+  307  2018-01-12 11:39:54 ls -la
+  308  2018-01-12 11:39:56 rcs
+  309  2018-01-12 11:40:00 rcs --command
+  310  2018-01-12 11:40:43 ci a.c
+  311  2018-01-12 11:43:47 ls -l
+  312  2018-01-12 11:45:29 cd /opt/lampp/
+  313  2018-01-12 11:45:37 ./xampp start
+  314  2018-01-12 11:46:07 cd /home/me/
+  315  2018-01-12 11:46:30 xampp status
+  316  2018-01-12 11:46:39 apache
+  317  2018-01-12 11:46:43 services
+  318  2018-01-12 11:47:29 php5
+  319  2018-01-12 11:47:33 php5-cli
+  320  2018-01-12 11:47:36 php
+  321  2018-01-12 11:48:11 php echo phpinfo();
+  322  2018-01-12 11:48:41 echo '<?php phpinfo();  ?>' 
+  323  2018-01-12 11:48:47 echo <?php phpinfo();  ?>
+  324  2018-01-12 11:49:48 echo '<?php phpinfo();  ?>'  > /opt/lampp/htdocs/phpinfo.php
+  325  2018-01-12 11:50:41 php5 
+  326  2018-01-12 11:50:47 php -x 
+  327  2018-01-12 11:51:44 php -f /opt/lampp/htdocs/phpinfo.php 
+  328  2018-01-12 11:52:39 php -f /opt/lampp/htdocs/phpinfo.php | less
+  329  2018-01-12 11:54:40 php -a
+  330  2018-01-12 11:55:27 php -a 
+  331  2018-01-12 11:58:31 php -a
+  332  2018-01-12 11:59:15 php -a help
+  333  2018-01-12 11:59:27 php -a phpinfo.php
+  334  2018-01-12 11:59:36 php -a /opt/lampp/htdocs/phpinfo.php
+  335  2018-01-12 12:00:46 echo -e '#!/usr/bin/php5\n<?php phpinfo(); ?>' > phpscript.php
+  336  2018-01-12 12:00:58 chmod 755 phpscript.php 
+  337  2018-01-12 12:01:03 ./phpscript.php 
+  338  2018-01-12 12:01:13 cat phpscript.php 
+  339  2018-01-12 12:02:22 cat -e phpscript.php 
+  340  2018-01-12 12:02:32 vi phpscript.php 
+  341  2018-01-12 12:03:39 cat -e phpscript.php 
+  342  2018-01-12 12:03:46 ./phpscript.php 
+  343  2018-01-12 12:04:07 rcs
+  344  2018-01-12 12:04:14 cd DEVELOPMENT/
+  345  2018-01-12 12:06:51 echo -e '#!/usr/bin/php\n<?php phpinfo();  ?>' > phpinfo.php
+  346  2018-01-12 12:07:11 ls -la
+  347  2018-01-12 12:07:20 ./phpinfo.php
+  348  2018-01-12 12:07:29 chmod 755 phpinfo.php 
+  349  2018-01-12 12:07:51 ./phpinfo.php 
+  350  2018-01-12 12:08:00 php -a
+  351  2018-01-12 12:09:20 nano ~/.php_history | less
+  352  2018-01-12 12:12:01 php --enable-cli
+  353  2018-01-12 12:12:55 php --interactive
+  354  2018-01-12 12:14:00 rcs -import phpinfo.php
+  355  2018-01-12 12:14:36 ls -la
+  356  2018-01-12 12:16:19 ci ./phpinfo.php 
+  357  2018-01-12 12:17:31 ls -la
+  358  2018-01-12 12:17:47 cat phpinfo.php,v 
+  359  2018-01-12 12:17:58 mkdir RCS
+  360  2018-01-12 12:18:00 ls ila
+  361  2018-01-12 12:18:03 ls -la
+  362  2018-01-12 12:30:58 co
+  363  2018-01-12 12:31:06 co --help
+  364  2018-01-12 12:31:38 co -lock ./phpinfo.php 
+  365  2018-01-12 12:31:47 co -l ./phpinfo.php 
+  366  2018-01-12 12:31:52 ls -la
+  367  2018-01-12 12:32:01 vi phpinfo.php
+  368  2018-01-12 12:33:00 rcs status
+  369  2018-01-12 12:33:06 rcs --help
+  370  2018-01-12 12:33:14 rcs --commands
+  371  2018-01-12 12:33:22 rcs log
+  372  2018-01-12 12:33:27 rcs log ./phpinfo.php 
+  373  2018-01-12 12:33:52 ci ./phpinfo.php 
+  374  2018-01-12 12:34:16 ls -la
+  375  2018-01-12 12:34:43 rlog ./phpinfo.php 
+  376  2018-01-12 12:35:14 cd RCS/
+  377  2018-01-12 12:35:16 ls -la
+  378  2018-01-12 12:35:18 cd..
+  379  2018-01-12 12:35:21 ls-la
+  380  2018-01-12 12:35:23 ls -la
+  381  2018-01-12 12:35:25 ls -l
+  382  2018-01-12 12:35:34 co ./phpinfo.php 
+  383  2018-01-12 12:35:40 ls -l
+  384  2018-01-12 12:35:53 co -l ./phpinfo.php 
+  385  2018-01-12 12:36:22 ci -l ./phpinfo.php 
+  386  2018-01-12 12:36:29 ci ./phpinfo.php 
+  387  2018-01-12 12:36:37 co ./phpinfo.php 
+  388  2018-01-12 12:36:42 cat phpinfo.php
+  389  2018-01-12 12:36:49 vi phpinfo.php
+  390  2018-01-12 12:42:34 cd /home/me/DEVELOPMENT/
+  391  2018-01-12 12:42:36 ls -la
+  392  2018-01-12 12:42:42 rm RCS
+  393  2018-01-12 12:42:49 rm -R RCS
+  394  2018-01-12 12:42:53 ls -la
+  395  2018-01-12 12:43:06 rlog ./phpinfo.php 
+  396  2018-01-12 12:43:20 ci phpim
+  397  2018-01-12 12:43:30 ls -la
+  398  2018-01-12 12:43:41 ci ./phpinfo.php 
+  399  2018-01-12 12:43:48 ci -F ./phpinfo.php 
+  400  2018-01-12 12:43:52 ci -f ./phpinfo.php 
+  401  2018-01-12 12:43:58 ci -l ./phpinfo.php 
+  402  2018-01-12 12:44:06 co ./phpinfo.php 
+  403  2018-01-12 12:44:11 ls -la
+  404  2018-01-12 12:44:25 rcs --command
+  405  2018-01-12 12:44:46 ci phin
+  406  2018-01-12 12:44:53 ci ./phpinfo.php 
+  407  2018-01-12 12:45:12 rcs log ./phpinfo.php 
+  408  2018-01-12 12:47:42 rlog ./phpinfo.php 
+  409  2018-01-12 12:52:14 ci ./phpinfo.php 
+  410  2018-01-12 12:52:22 rlog php
+  411  2018-01-12 12:52:24 rlog ./phpinfo.php 
+  412  2018-01-12 12:53:11 ci ./phpinfo.php 
+  413  2018-01-12 12:54:15 ci ./phpinfo.php
+  414  2018-01-12 12:54:23 ls -la
+  415  2018-01-12 12:54:40 rm phpinfo.php,v
+  416  2018-01-12 12:54:42 ls -la
+  417  2018-01-12 12:55:03 rcs log phpinfo.php
+  418  2018-01-12 12:55:23 rcs --commands
+  419  2018-01-12 12:55:31 rcs clean
+  420  2018-01-12 12:55:33 ls -la
+  421  2018-01-12 12:55:42 ci -i phpinfo.php 
+  422  2018-01-12 12:56:14 ls -la
+  423  2018-01-12 12:56:17 rlog
+  424  2018-01-12 12:56:20 rlog ./phpinfo.php 
+  425  2018-01-12 12:56:33 co -l phin
+  426  2018-01-12 12:56:37 co -l ./phpinfo.php 
+  427  2018-01-12 12:56:43 cat phpinfo.php
+  428  2018-01-12 12:56:48 vi phpinfo.php
+  429  2018-01-12 12:57:10 ls -la
+  430  2018-01-12 12:57:17 ci ./phpinfo.php 
+  431  2018-01-12 12:57:31 rlog ./phpinfo.php 
+  432  2018-01-12 12:58:56 co -r1.1 ./phpinfo.php 
+  433  2018-01-12 12:59:00 ls -la
+  434  2018-01-12 12:59:05 cat phpinfo.php
+  435  2018-01-12 12:59:11 ci ./phpinfo.php 
+  436  2018-01-12 12:59:47 co -r1.1 -l ./phpinfo.php 
+  437  2018-01-12 13:00:04 ls -l
+  438  2018-01-12 13:00:06 ls -la
+  439  2018-01-12 13:00:11 cat phpinfo.php
+  440  2018-01-12 13:00:18 ci ./phpinfo.php 
+  441  2018-01-12 13:00:28 cat phpinfo.php,v 
+  442  2018-01-12 13:00:37 ls -la
+  443  2018-01-12 13:00:45 co -l ./phpinfo.php 
+  444  2018-01-12 13:00:50 cat phpinfo.php
+  445  2018-01-12 13:01:23 rcsdiff -r1.1 -r2.2 ./phpinfo.php 
+  446  2018-01-12 13:01:32 rcsdiff -r1.1 -r1.2 ./phpinfo.php 
+  447  2018-01-12 13:03:21 rlog ./phpinfo.php 
+  448  2018-01-12 13:06:15 ls -la
+  449  2018-01-12 13:06:21 ci ./phpinfo.php 
+  450  2018-01-12 13:06:29 ls -la
+  451  2018-01-12 13:09:02 rlog ./phpinfo.php 
+  452  2018-01-12 13:09:42 ls -la
+  453  2018-01-12 13:09:58 ci -r1.2 -l ./phpinfo.php 
+  454  2018-01-12 13:10:08 co -r1.2 -l ./phpinfo.php 
+  455  2018-01-12 13:10:11 cat phpinfo.php
+  456  2018-01-12 13:10:34 vi phpinfo.php
+  457  2018-01-12 13:11:13 ls -la
+  458  2018-01-12 13:11:16 cat phpinfo.php
+  459  2018-01-12 13:11:26 ci ./phpinfo.php 
+  460  2018-01-12 13:11:53 ls -la
+  461  2018-01-12 13:11:59 rlog ./phpinfo.php 
+  462  2018-01-12 13:12:23 cat phpinfo.php,v 
+  463  2018-01-12 13:12:35 co -l ./phpinfo.php 
+  464  2018-01-12 13:12:41 cat phpinfo.php
+  465  2018-01-12 13:12:44 ls -la
+  466  2018-01-12 13:15:56 indent phpinfo.php
+  467  2018-01-12 13:16:02 ident phpinfo.php
+  468  2018-01-12 13:17:37 vi important.c
+  469  2018-01-12 13:20:58 ls -la
+  470  2018-01-12 13:21:15 rcs -i impprtant.c
+  471  2018-01-12 13:21:29 ls -la
+  472  2018-01-12 13:21:48 rcs --commands
+  473  2018-01-12 13:22:03 rcs clean ./impprtant.c ./
+  474  2018-01-12 13:22:05 ls -la
+  475  2018-01-12 13:22:14 rm impprtant.c,v
+  476  2018-01-12 13:22:16 ls -la
+  477  2018-01-12 13:22:44 rcs -i important.c
+  478  2018-01-12 13:22:57 ls -la
+  479  2018-01-12 13:23:01 rlog ./important.c 
+  480  2018-01-12 13:23:15 ci ./important.c 
+  481  2018-01-12 13:23:17 ls -la
+  482  2018-01-12 13:23:23 ci phpo
+  483  2018-01-12 13:23:31 ci ./phpinfo.php 
+  484  2018-01-12 13:23:35 ls -la
+  485  2018-01-12 13:23:54 co -l ./important.c 
+  486  2018-01-12 13:23:58 ls -la
+  487  2018-01-12 13:24:02 rm important.c
+  488  2018-01-12 13:24:07 ls -la
+  489  2018-01-12 13:24:21 make important.c,v
+  490  2018-01-12 13:24:35 co ./important.c 
+  491  2018-01-12 13:24:38 ls -la
+  492  2018-01-12 13:24:43 cat important.c
+  493  2018-01-12 13:24:54 vi important.c
+  494  2018-01-12 13:32:21 ls -la
+  495  2018-01-12 13:32:30 ci ./important.c 
+  496  2018-01-12 13:32:43 ls -la
+  497  2018-01-12 13:32:50 cat monp
+  498  2018-01-12 13:32:52 cat mono
+  499  2018-01-12 13:33:44 LS -LA
+  500  2018-01-12 13:33:47 rm mono
+  501  2018-01-12 13:33:50 ls -la
+  502  2018-01-12 13:33:54 rlog ./important.c 
+  503  2018-01-12 13:34:05 cat important.c,v 
+  504  2018-01-12 13:34:24 rcsdiff -r1.1 -r1.2 ./important.c 
+  505  2018-01-12 13:34:41 co -l ./important.c 
+  506  2018-01-12 13:34:44 ls -la
+  507  2018-01-12 13:34:48 cat important.c
+  508  2018-01-12 13:35:19 ident important.c
+  509  2018-01-12 13:35:50 co -l ./important.c 
+  510  2018-01-12 13:36:08 ls -la
+  511  2018-01-12 13:36:12 rm important.c
+  512  2018-01-12 13:36:14 ls -la
+  513  2018-01-12 13:36:29 make important.c
+  514  2018-01-12 14:03:07 ls -la /usr/local/
+  515  2018-01-12 14:03:12 ls -la /usr/
+  516  2018-01-12 14:03:17 ls -la /usr/ | grep loca
+  517  2018-01-12 14:04:03 ls -la
+  518  2018-01-12 14:04:30 ls -la /usr/ | grep loca
+  519  2018-01-12 14:06:45 mkdir /usr/local/repository
+  520  2018-01-12 14:07:04 chgrp users /usr/local/repository/
+  521  2018-01-12 14:08:24 chmod g+w /usr/local/repository/
+  522  2018-01-12 14:08:27 ls -la 
+  523  2018-01-12 14:08:33 ls -la /usr/local/
+  524  2018-01-12 14:16:33 cvs
+  525  2018-01-12 14:16:48 cvs -d /usr/local/repository init
+  526  2018-01-12 14:16:51 ls -la
+  527  2018-01-12 14:16:58 ls -la /usr/local/repository/
+  528  2018-01-12 14:19:39 export CVSROOT=/usr/local/repository/
+  529  2018-01-12 14:19:43 PATH
+  530  2018-01-12 14:19:46 $PATH
+  531  2018-01-12 14:20:04 $CVSROOT
+  532  2018-01-12 14:21:15 cd /usr/local/repository/
+  533  2018-01-12 14:21:16 ls -la
+  534  2018-01-12 14:21:22 cd CVSROOT/
+  535  2018-01-12 14:21:24 ls -la
+  536  2018-01-12 14:21:30 cd..
+  537  2018-01-12 14:21:45 cd cvs-sp
+  538  2018-01-12 14:26:01 cd /home/me/DEVELOPMENT/
+  539  2018-01-12 14:26:03 ls -ls
+  540  2018-01-12 14:26:20 ls -ls --help
+  541  2018-01-12 14:26:40 ls -la
+  542  2018-01-12 14:26:42 ls -s
+  543  2018-01-12 15:37:23 cvs -d :pserver:anonymous@anoncvs.gnome.org:/cvs/gnome login
+  544  2018-01-13 06:42:56 pwd
+  545  2018-01-13 06:43:09 cd /home/me/
+  546  2018-01-13 06:43:18 cd DEVELOPMENT/
+  547  2018-01-13 06:43:20 ls -la
+  548  2018-01-13 06:43:29 cd /opt/lampp/
+  549  2018-01-13 06:43:31 ls -la
+  550  2018-01-13 06:43:38 ./xampp start
+  551  2018-01-13 06:43:49 cd htdocs
+  552  2018-01-13 06:43:53 ls -la
+  553  2018-01-13 06:44:42 ls -l wordpress-svn/
+  554  2018-01-13 06:45:35 svn status
+  555  2018-01-13 06:45:41 cd wordpress-svn/
+  556  2018-01-13 06:45:44 ls -la
+  557  2018-01-13 06:45:55 svn status
+  558  2018-01-13 06:47:30 ls -la src
+  559  2018-01-13 06:52:25 svn status
+  560  2018-01-13 06:54:05 svn ci
+  561  2018-01-13 07:04:00 svn info
+  562  2018-01-13 07:04:59 echo
+  563  2018-01-13 07:05:08 $PATH
+  564  2018-01-13 07:05:21 $CVSROOT
+  565  2018-01-13 07:05:28 $CVSROOT$
+  566  2018-01-13 07:05:32 CVSROOT
+  567  2018-01-13 07:05:39 cvs CVSROOT
+  568  2018-01-13 07:05:48 cvs status
+  569  2018-01-13 07:06:10 $PATH CVSROOT
+  570  2018-01-13 07:06:58 ls -la
+  571  2018-01-13 07:07:06 cd .svn/
+  572  2018-01-13 07:07:08 ls -la
+  573  2018-01-13 07:07:18 cat entries 
+  574  2018-01-13 07:07:26 cd..
+  575  2018-01-13 07:07:27 ls
+  576  2018-01-13 07:07:37 cd sv
+  577  2018-01-13 07:07:39 cd svn
+  578  2018-01-13 07:07:47 cd .svn/
+  579  2018-01-13 07:07:49 ls -la
+  580  2018-01-13 07:09:49 svn root
+  581  2018-01-13 07:09:56 svn help
+  582  2018-01-13 07:10:11 svn list
+  583  2018-01-13 07:10:25 cd..
+  584  2018-01-13 07:10:27 svn list
+  585  2018-01-13 07:11:21 svn info
+  586  2018-01-13 07:13:09 svn switch --help
+  587  2018-01-13 07:16:53 svn info
+  588  2018-01-13 07:17:49 svn switch --relocate http://localhost/wordpress-svn
+  589  2018-01-13 07:18:02 svn switch  http://localhost/wordpress-svn
+  590  2018-01-13 07:19:46 svn switch relocate https://develop.svn.wordpress.org http://localhost/wordpress-svn
+  591  2018-01-13 07:20:18 svn switch relocate https://develop.svn.wordpress.org http://localhost/wordpress-svn /opt/lampp/htdocs/wordpress-svn
+  592  2018-01-13 07:20:25 svn switch relocate https://develop.svn.wordpress.org /opt/lampp/htdocs/wordpress-svn
+  593  2018-01-13 07:20:34 svn switch relocate  /opt/lampp/htdocs/wordpress-svn
+  594  2018-01-13 07:20:43 svn switch relocate https://develop.svn.wordpress.org /opt/lampp/htdocs/wordpress-svn
+  595  2018-01-13 07:21:13 svn switch relocate https://develop.svn.wordpress.org http://localhost/wordpress-svn
+  596  2018-01-13 07:22:12 svn switch  http://localhost/wordpress-svn
+  597  2018-01-13 07:22:35 svn switch relocate /opt/lampp/htdocs/wordpress-svn
+  598  2018-01-13 07:22:42 svn switch /opt/lampp/htdocs/wordpress-svn
+  599  2018-01-13 07:23:02 svn switch http://localhost/wordpress-svn
+  600  2018-01-13 07:23:40 svn relocate /opt/lampp/htdocs/wordpress-svn
+  601  2018-01-13 07:23:51 svn relocate http://localhost/wordpress-svn
+  602  2018-01-13 07:26:07 svn switch https://develop.svn.wordpress.org .
+  603  2018-01-13 07:28:23 svn switch --ignore-ancestry https://develop.svn.wordpress.org .
+  604  2018-01-13 08:27:11 svn status
+  605  2018-01-13 08:27:44 svn commit 
+  606  2018-01-13 08:28:09 svn info
+  607  2018-01-13 08:28:58 svn status -d http://develop.svn.wordpress.org
+  608  2018-01-13 08:29:04 svn status http://develop.svn.wordpress.org
+  609  2018-01-13 08:29:15 svn status
+  610  2018-01-13 08:29:37 svnlook tree 
+  611  2018-01-13 08:29:55 svnlook tree -r 13 
+  612  2018-01-13 08:30:00 svnlook tree -r 13 .
+  613  2018-01-13 08:31:06 svnlook tree -r 13 . --show-ids
+  614  2018-01-13 08:33:17 git status
+  615  2018-01-13 08:33:23 cd ..
+  616  2018-01-13 08:33:30 cd wordpress-exp/
+  617  2018-01-13 08:33:32 ls -al
+  618  2018-01-13 11:20:17 git version
+  619  2018-01-13 11:20:26 cd /opt/lampp/htdocs/wordpress-
+  620  2018-01-13 11:20:29 cd /opt/lampp/htdocs/wordpress-exp/
+  621  2018-01-13 11:20:32 ped
+  622  2018-01-13 11:20:35 pwd
+  623  2018-01-13 11:20:47 git config --global 
+  624  2018-01-13 11:20:53 git config --global name 
+  625  2018-01-13 11:20:58 git config --global user.name
+  626  2018-01-13 11:21:17 got config --global -list
+  627  2018-01-13 11:21:21 git config --global -list
+  628  2018-01-13 11:21:26 git config --global --list
+  629  2018-01-13 11:31:06 sudo git config --global --list
+  630  2018-01-13 11:33:25 git version
+  631  2018-01-13 11:33:29 git --version
+  632  2018-01-13 11:33:32 git status
+  633  2018-01-13 11:34:30 git clone https://github.com/govindjoshi/wordpress-exp.git
+  634  2018-01-13 11:34:56 ls -la
+  635  2018-01-13 11:35:15 git add 
+  636  2018-01-13 11:35:32 git init
+  637  2018-01-13 11:35:43 git status
+  638  2018-01-13 11:35:51 git add 
+  639  2018-01-13 11:35:59 git add .
+  640  2018-01-13 11:36:22 git update
+  641  2018-01-13 11:36:45 git commit origin master
+  642  2018-01-13 11:36:54 git commit
+  643  2018-01-13 11:37:26 git config --global user.email "jocgovind@gmail.com"
+  644  2018-01-13 11:37:46 git config --global user.name "Govind Joshi"
+  645  2018-01-13 11:42:18 git config --global --list
+  646  2018-01-13 11:42:28 git status
+  647  2018-01-13 11:42:53 git commit 
+  648  2018-01-13 11:44:24 git status
+  649  2018-01-13 11:46:17 git push origin master
+  650  2018-01-13 11:48:14 cd..
+  651  2018-01-13 11:48:51 git status
+  652  2018-01-13 11:50:01 git push origin master
+  653  2018-01-13 11:50:16 git -d wordpress-exp/ push origin master
+  654  2018-01-13 11:50:30 git push -d wordpress-exp/ 
+  655  2018-01-13 11:50:43 cd wordpress-exp/
+  656  2018-01-13 11:50:44 ls -la
+  657  2018-01-13 11:50:49 cd .git/
+  658  2018-01-13 11:50:51 ls -la
+  659  2018-01-13 11:50:59 cat config 
+  660  2018-01-13 11:51:16 cat description 
+  661  2018-01-13 11:51:32 cd info/
+  662  2018-01-13 11:51:33 ls -la
+  663  2018-01-13 11:51:37 cd
+  664  2018-01-13 11:51:55 cd /opt/lampp/htdocs/wordpress-exp/
+  665  2018-01-13 11:51:58 ls -la
+  666  2018-01-13 11:52:05 git status
+  667  2018-01-13 11:52:22 git wordpress-exp/
+  668  2018-01-13 11:52:56 git status 
+  669  2018-01-13 12:14:06 git status
+  670  2018-01-13 12:14:21 ls -la
+  671  2018-01-13 12:14:29 cd wordpress-exp/
+  672  2018-01-13 12:14:39 git push origin master
+  673  2018-01-13 12:19:41 git status
+  674  2018-01-13 12:19:46 git version
+  675  2018-01-13 12:20:23 git push origin master
+  676  2018-01-13 12:25:53 exit
+  677  2018-01-13 12:26:22 git version
+  678  2018-01-13 12:26:25 git status
+  679  2018-01-13 12:26:42 cd /opt/lampp/htdocs/wordpress-
+  680  2018-01-13 12:26:44 cd /opt/lampp/htdocs/wordpress-exp/
+  681  2018-01-13 12:26:46 ls -la
+  682  2018-01-13 12:26:57 git status
+  683  2018-01-13 12:27:01 git info
+  684  2018-01-13 12:27:08 git --help
+  685  2018-01-13 12:27:43 git status
+  686  2018-01-13 12:27:54 git show
+  687  2018-01-13 12:28:28 git push origin master
+  688  2018-01-13 12:30:02 git remote -v
+  689  2018-01-13 12:33:03 git remote add origin git@github.com:govindjoshi/wordpress-exp.git
+  690  2018-01-13 12:33:08 git remote -v
+  691  2018-01-13 12:33:25 git push origin master
+  692  2018-01-13 12:34:39 git remote remove origin
+  693  2018-01-13 12:34:44 git remote -v
+  694  2018-01-13 12:34:59 git remote add origin ssh://The authenticity of host 'github.com (192.30.253.113)' can't be established.
+  695  2018-01-13 12:35:40 git remote add origin ssh://git@github.com:govindjoshi/wordpress-exp.git
+  696  2018-01-13 12:35:46 git remote -v
+  697  2018-01-13 12:36:00 git push origin master
+  698  2018-01-13 12:39:52 git clone ssh: Could not resolve hostname github.com:govindjoshi: Name or service not known
+  699  2018-01-13 12:39:52 fatal: Could not read from remote repository.
+  700  2018-01-13 12:39:52 Please make sure you have the correct access rights
+  701  2018-01-13 12:39:52 and the repository exists.
+  702  2018-01-13 12:40:28 git clone ssh://git@github.com:govindjoshi/wordpress-exp.git
+  703  2018-01-13 12:40:39 git clone git@github.com:govindjoshi/wordpress-exp.git
+  704  2018-01-13 12:40:49 git clone --help git@github.com:govindjoshi/wordpress-exp.git
+  705  2018-01-13 12:42:04 git push origin master
+  706  2018-01-13 12:43:17 git clone https:// git@github.com:govindjoshi/wordpress-exp.git
+  707  2018-01-13 12:43:25 git clone https://git@github.com:govindjoshi/wordpress-exp.git
+  708  2018-01-13 12:43:40 git clone -f  https://git@github.com:govindjoshi/wordpress-exp.git
+  709  2018-01-13 12:45:09 git clone --bare  https://git@github.com:govindjoshi/wordpress-exp.git
+  710  2018-01-13 12:45:30 git clone --bare  ssh://git@github.com:govindjoshi/wordpress-exp.git
+  711  2018-01-13 12:45:40 git clone --bare git@github.com:govindjoshi/wordpress-exp.git
+  712  2018-01-13 12:46:38 git clone https://github.com/govindjoshi/wordpress-exp.git
+  713  2018-01-13 12:47:08 git clone --bare  https://github.com/govindjoshi/wordpress-exp.git
+  714  2018-01-13 12:47:21 git status
+  715  2018-01-13 12:47:38 git clone  https://github.com/govindjoshi/wordpress-exp.git
+  716  2018-01-13 12:48:11 git clone -n  https://github.com/govindjoshi/wordpress-exp.git
+  717  2018-01-13 12:48:19 git clone  https://github.com/govindjoshi/wordpress-exp.git
+  718  2018-01-13 12:48:27 ls -la
+  719  2018-01-13 12:48:39 rm wordpress-exp
+  720  2018-01-13 12:48:47 rmdir  wordpress-exp
+  721  2018-01-13 12:48:54 rmdir  wordpress-exp -f
+  722  2018-01-13 12:49:01 rmdir --f  wordpress-exp
+  723  2018-01-13 12:49:06 rmdir -f  wordpress-exp
+  724  2018-01-13 12:51:25 rmdir --help
+  725  2018-01-13 12:52:04 cd wordpress-exp
+  726  2018-01-13 12:52:07 ls -la
+  727  2018-01-13 12:52:13 rm .git/
+  728  2018-01-13 12:52:26 cd..
+  729  2018-01-13 12:52:29 git remove
+  730  2018-01-13 12:52:35 git --help
+  731  2018-01-13 12:52:57 cd wordpress-exp
+  732  2018-01-13 12:52:59 rm .
+  733  2018-01-13 12:53:05 ls -la
+  734  2018-01-13 12:53:15 rm README.md
+  735  2018-01-13 12:53:23 git rm .git/
+  736  2018-01-13 12:53:37 cd..
+  737  2018-01-13 12:53:40 ls -la
+  738  2018-01-13 12:54:01 sudo rmdir -R wordpress-exp.git/
+  739  2018-01-13 12:54:06 sudo rmdir wordpress-exp.git/rmdir 
+  740  2018-01-13 12:54:21 rmdir --help
+  741  2018-01-13 12:54:49 rmdir --ignore-fail-on-non-empty  wordpress-exp.git/ 
+  742  2018-01-13 12:54:54 ls -la
+  743  2018-01-13 12:55:07 rmdir --help
+  744  2018-01-13 12:57:16 rm -rf wordpress-exp.git/
+  745  2018-01-13 12:57:19 ls -la
+  746  2018-01-13 12:57:33 rm -rf wordpress-exp/
+  747  2018-01-13 12:57:35 ls -la
+  748  2018-01-13 12:57:48 cd..
+  749  2018-01-13 12:57:50 ls -la
+  750  2018-01-13 12:57:58 cd wordpress-
+  751  2018-01-13 12:58:00 cd wordpress-exp/
+  752  2018-01-13 12:58:01 ls -la
+  753  2018-01-13 12:58:06 git status
+  754  2018-01-13 12:58:11 git commit
+  755  2018-01-13 12:58:20 git add .
+  756  2018-01-13 12:58:27 git status
+  757  2018-01-13 12:58:35 git commit
+  758  2018-01-13 12:59:15 ls -la
+  759  2018-01-13 12:59:21 git status
+  760  2018-01-13 12:59:35 cd..
+  761  2018-01-13 13:00:08 git clone https://github.com/govindjoshi/wordpress-exp.git
+  762  2018-01-13 13:00:43 git clone https://github.com/govindjoshi/wordpress-exp.git .
+  763  2018-01-13 13:05:05 cd wordpress-exp/
+  764  2018-01-13 13:05:06 ls -la
+  765  2018-01-13 13:05:11 git status
+  766  2018-01-13 13:05:18 git remote -v
+  767  2018-01-13 13:05:31 git push origin master
+  768  2018-01-13 13:05:45 sudo git push origin master
+  769  2018-01-13 13:06:21 cd..
+  770  2018-01-13 13:06:31 git clone https://github.com/govindjoshi/wordpress-exp.git
+  771  2018-01-13 13:06:37 ls -la
+  772  2018-01-13 13:06:47 git status
+  773  2018-01-13 13:06:52 cd wordpress-ex
+  774  2018-01-13 13:06:54 ls -la
+  775  2018-01-13 13:07:03 cd..
+  776  2018-01-13 13:07:08 cd wordpress-exp
+  777  2018-01-13 13:07:09 ls -la
+  778  2018-01-13 13:07:24 git push origin master
+  779  2018-01-13 13:07:47 ls -la
+  780  2018-01-13 13:07:57 git remote -v
+  781  2018-01-13 13:09:13 cp /opt/lampp/htdocs/wordpress-ex/* . 
+  782  2018-01-13 13:11:00 cp /opt/lampp/htdocs/wordpress-ex/wp-content . 
+  783  2018-01-13 13:12:47 cp -a /opt/lampp/htdocs/wordpress-ex/wp-content/* .  
+  784  2018-01-13 13:12:49 ls -la
+  785  2018-01-13 13:13:23 ls -la /opt/lampp/htdocs/wordpress-ex
+  786  2018-01-13 13:13:37 git clean
+  787  2018-01-13 13:13:45 git clean -n
+  788  2018-01-13 13:13:56 git commit
+  789  2018-01-13 13:15:39 git status
+  790  2018-01-13 13:17:54 cp -a /opt/lampp/htdocs/wordpress-ex/. .
+  791  2018-01-13 13:17:57 ls -al
+  792  2018-01-13 13:18:11 cat inte.pph
+  793  2018-01-13 13:18:13 cat inte.php
+  794  2018-01-13 13:18:17 cat index.php
+  795  2018-01-13 13:18:20 ls -la
+  796  2018-01-13 13:18:37 rm -rf plugins/
+  797  2018-01-13 13:18:38 ls -la
+  798  2018-01-13 13:18:54 rm -rf themes/
+  799  2018-01-13 13:18:55 ls -la
+  800  2018-01-13 13:20:02 cd /opt/lampp
+  801  2018-01-13 13:20:09 ./xampp start
+  802  2018-01-13 13:20:14 ls -la
+  803  2018-01-13 13:20:18 cd wordpress/
+  804  2018-01-13 13:20:19 ls -la
+  805  2018-01-13 13:20:22 cd..
+  806  2018-01-13 13:20:34 cd ./htdocs/wordpress-exp
+  807  2018-01-13 13:20:35 ls -la
+  808  2018-01-13 13:21:05 git upadate
+  809  2018-01-13 13:21:13 git status
+  810  2018-01-13 13:21:21 ls -la
+  811  2018-01-13 13:21:31 git add wp-admin
+  812  2018-01-13 13:21:35 ls -la
+  813  2018-01-13 13:21:39 git statu
+  814  2018-01-13 13:21:41 git status
+  815  2018-01-13 13:21:51 git add .
+  816  2018-01-13 13:22:03 git commit
+  817  2018-01-13 13:22:21 ls -la
+  818  2018-01-13 13:22:38 git add index.php 
+  819  2018-01-13 13:22:43 git status
+  820  2018-01-13 13:23:48 cat wp-config.php 
+  821  2018-01-13 13:23:57 ls 
+  822  2018-01-13 13:24:27 git config --global --list
+  823  2018-01-13 13:24:31 ls -la
+  824  2018-01-13 13:24:44 touch license.txt 
+  825  2018-01-13 13:24:54 vi license.txt 
+  826  2018-01-13 13:25:22 git status
+  827  2018-01-13 13:25:34 git add license.txt 
+  828  2018-01-13 13:25:39 git status
+  829  2018-01-13 13:25:50 git commit 
+  830  2018-01-13 13:26:06 ls -la
+  831  2018-01-13 13:26:14 git sta
+  832  2018-01-13 13:26:16 git status
+  833  2018-01-13 13:26:25 git push origin master
+  834  2018-01-13 13:26:45 git status
+  835  2018-01-13 13:27:18 git remote -v
+  836  2018-01-13 13:27:39 git push origin master 
+  837  2018-01-13 13:28:30 git remote -v
+  838  2018-01-13 13:28:46 git remote remove origin
+  839  2018-01-13 13:28:52 git remote -v
+  840  2018-01-13 13:29:21 git remote add https://github.com/govindjoshi/wordpress-exp.git
+  841  2018-01-13 13:30:26 git remote add origin https://github.com/govindjoshi/wordpress-exp.git
+  842  2018-01-13 13:30:28 ls -la
+  843  2018-01-13 13:30:50 git push origin master
+  844  2018-01-13 13:32:02 git remote -v
+  845  2018-01-13 13:32:26 git push origin master
+  846  2018-01-13 13:33:18 git remote remove origin
+  847  2018-01-13 13:33:23 git remote -v
+  848  2018-01-13 13:33:42 git remote add origin ssh://git@github.com:govindjoshi/wordpress-exp.git
+  849  2018-01-13 13:33:48 git remote -v
+  850  2018-01-13 13:34:03 git version
+  851  2018-01-13 13:34:06 git status
+  852  2018-01-13 13:34:20 git push origin master
+  853  2018-01-13 13:35:33 ssh-keygen -r
+  854  2018-01-13 13:35:50 cd /root/.ssh
+  855  2018-01-13 13:35:52 ls -ls
+  856  2018-01-13 13:36:04 ssh-keygen -r rsa
+  857  2018-01-13 13:42:09 ssh-keygen -help
+  858  2018-01-13 13:42:26 ssh-keygen help
+  859  2018-01-13 13:43:48 ssh-keygen -t rsa 4096 -C "jocgovind@gmail.com"
+  860  2018-01-13 13:44:04 ssh-keygen -t rsa -b  4096 -C "jocgovind@gmail.com"
+  861  2018-01-13 13:46:27 eval "$(ssh-agent -s)"
+  862  2018-01-13 13:47:13 ssh-add ~/.ssh/id_rsa
+  863  2018-01-13 13:48:11 ls -al /.ssh/id_rsa
+  864  2018-01-13 13:48:39 ls -al ~/.ssh/
+  865  2018-01-13 13:50:52 apt-get install xclip
+  866  2018-01-13 13:55:43 xclip -sel clip < ~/.ssh/id_rsa.pub 
+  867  2018-01-13 13:58:12 ls -la
+  868  2018-01-13 13:58:48 cd /opt/lampp/htdocs/wordpress-exp/
+  869  2018-01-13 13:58:52 git status
+  870  2018-01-13 13:59:02 git config --global
+  871  2018-01-13 13:59:05 git config --global --list
+  872  2018-01-13 13:59:17 git remote -v
+  873  2018-01-13 13:59:26 git push origin master
+  874  2018-01-13 15:17:18 sudo service network-manager restart
+  875  2018-01-13 15:17:34 sudo service | grep network
+  876  2018-01-13 15:17:41 sudo service 
+  877  2018-01-13 15:17:44 sudo service --ststus
+  878  2018-01-13 15:17:48 sudo service --status-all
+  879  2018-01-13 15:17:58 sudo service --status-all| grep network
+  880  2018-01-13 15:18:04 sudo service --status-all| grep manager
+  881  2018-01-13 15:18:31 vim etc/resolv.conf
+  882  2018-01-13 15:31:06 git status
+  883  2018-01-13 15:31:10 git commit
+  884  2018-01-13 15:31:51 git clone ssh://git@github.com:govindjoshi/wordpress-exp.git
+  885  2018-01-13 15:32:05 git clone git@github.com:govindjoshi/wordpress-exp.git
+  886  2018-01-13 15:32:20 git remote -v
+  887  2018-01-13 15:32:43 git push origin master 
+  888  2018-01-13 15:34:37 git remote set-url origin git@github.com:govindjoshi/wordpress-exp.git
+  889  2018-01-13 15:34:54 git push origin master
+  890  2018-01-13 15:36:24 git pull git@github.com:govindjoshi/wordpress-exp.git
+  891  2018-01-13 15:36:41 cd..
+  892  2018-01-13 15:36:46 mkdir project1
+  893  2018-01-13 15:36:49 cd project1/
+  894  2018-01-13 15:36:50 ls -la
+  895  2018-01-13 15:37:00 git clone git@github.com:govindjoshi/wordpress-exp.git
+  896  2018-01-13 15:37:22 touch abc.txt
+  897  2018-01-13 15:37:27 vim abc.txt 
+  898  2018-01-13 15:37:54 git status
+  899  2018-01-13 15:38:06 ls -la
+  900  2018-01-13 15:38:20 mv abc.txt wordpress-exp/
+  901  2018-01-13 15:38:23 cd wordpress-exp/
+  902  2018-01-13 15:38:25 ls -la
+  903  2018-01-13 15:38:32 git status
+  904  2018-01-13 15:38:37 git add abc.txt 
+  905  2018-01-13 15:38:49 git status
+  906  2018-01-13 15:38:54 git commit 
+  907  2018-01-13 15:39:37 git remote -v
+  908  2018-01-13 15:39:52 git push origin master 
+  909  2018-01-13 15:40:45 ls -al
+  910  2018-01-13 15:41:33 cp -a  /opt/lampp/htdocs/wordpress-ex/. . 
+  911  2018-01-13 15:42:15 ls -la
+  912  2018-01-13 15:42:20 git status
+  913  2018-01-13 15:43:20 git add .
+  914  2018-01-13 15:43:25 git status
+  915  2018-01-13 15:43:34 ls -la
+  916  2018-01-13 15:43:47 rm -a wp-admin/
+  917  2018-01-13 15:43:59 rm -rf wp-admin/
+  918  2018-01-13 15:44:09 rm -rf wp-content/
+  919  2018-01-13 15:44:14 rm wp-includes/
+  920  2018-01-13 15:45:09 rm -rf wp-includes/
+  921  2018-01-13 15:45:11 ls -la
+  922  2018-01-13 15:45:21 git status
+  923  2018-01-13 15:45:50 git clear
+  924  2018-01-13 15:45:55 git clean
+  925  2018-01-13 15:46:07 git rev 1.1
+  926  2018-01-13 15:46:12 git revert
+  927  2018-01-13 15:46:28 git revert --quit
+  928  2018-01-13 15:46:30 ls -la
+  929  2018-01-13 15:46:37 git status
+  930  2018-01-13 15:46:43 git commit
+  931  2018-01-13 15:47:06 ls -la
+  932  2018-01-13 15:47:13 git commit
+  933  2018-01-13 15:47:20 git ass
+  934  2018-01-13 15:47:24 git add .
+  935  2018-01-13 15:47:27 git status
+  936  2018-01-13 15:47:32 git commit
+  937  2018-01-13 15:47:56 ls -la
+  938  2018-01-13 15:48:00 git status
+  939  2018-01-13 15:48:05 git commit
+  940  2018-01-13 15:48:20 git push origin master
+  941  2018-01-13 15:49:25 git repote -v
+  942  2018-01-13 15:49:30 git remote -v
+  943  2018-01-13 15:49:42 git remote set-url git@github.com:govindjoshi/wordpress-exp.git
+  944  2018-01-13 15:49:51 git remote set-url origin git@github.com:govindjoshi/wordpress-exp.git
+  945  2018-01-13 15:49:53 ls -la
+  946  2018-01-13 15:50:00 git push origin master 
+  947  2018-01-13 15:50:16 git pull git@github.com:govindjoshi/wordpress-exp.git
+  948  2018-01-13 15:50:45 ls -la
+  949  2018-01-13 15:51:05 cd /opt/lampp/htdocs/wordpress-ex
+  950  2018-01-13 15:51:07 ls -la
+  951  2018-01-13 15:53:00 cd..
+  952  2018-01-13 15:53:07 ls -la
+  953  2018-01-13 15:53:22 rm -rf project1/
+  954  2018-01-13 15:53:36 rm -rf wordpress-exp/
+  955  2018-01-13 15:53:56 ls -la
+  956  2018-01-13 15:54:14 git clone git@github.com:govindjoshi/wordpress-exp.git
+  957  2018-01-13 15:54:22 ls -la
+  958  2018-01-13 15:54:30 cd wordpress-exp
+  959  2018-01-13 15:54:32 ls -la
+  960  2018-01-13 15:54:37 cat abc.txt 
+  961  2018-01-13 16:00:05 ls -la
+  962  2018-01-13 16:00:13 git status
+  963  2018-01-13 16:00:22 git add .
+  964  2018-01-13 16:00:31 git commit 
+  965  2018-01-13 16:01:07 ls -la
+  966  2018-01-13 16:01:13 git status
+  967  2018-01-13 16:01:44 git remote -v
+  968  2018-01-13 16:02:02 git push origin master
+  969  2018-01-13 16:07:48 git status
+  970  2018-01-13 16:08:17 kate wp-config.php 
+  971  2018-01-13 16:08:31 cd..
+  972  2018-01-13 16:08:49 chown -R me:users wordpress-exp/
+  973  2018-01-13 16:08:51 ls -la
+  974  2018-01-13 16:09:19 chmod -f g+x wordpress-exp/
+  975  2018-01-13 16:09:30 ls -la ./wordpress-exp
+  976  2018-01-13 16:09:56 kate wp-config.hpp
+  977  2018-01-13 16:10:03 kate wp-config.php
+  978  2018-01-13 16:10:21 chmod 775 wp-config.php
+  979  2018-01-13 16:12:01 cd wordpress-exp
+  980  2018-01-13 16:12:03 ls -la
+  981  2018-01-13 16:12:21 vi wp-config-sample.php 
+  982  2018-01-13 16:13:57 ls -la
+  983  2018-01-13 16:16:25 git status
+  984  2018-01-13 16:16:34 git add
+  985  2018-01-13 16:16:39 git add wp-config
+  986  2018-01-13 16:16:41 git add wp-config.php
+  987  2018-01-13 16:16:43 ls -la
+  988  2018-01-13 16:16:50 git commit
+  989  2018-01-13 16:17:22 git status
+  990  2018-01-13 16:17:31 git revert --help
+  991  2018-01-13 16:19:08 git checkout wp-config.php
+  992  2018-01-13 16:19:10 ls -la
+  993  2018-01-13 16:19:13 git status
+  994  2018-01-13 16:19:27 git checkout wp-config-sample.php
+  995  2018-01-13 16:19:30 git status
+  996  2018-01-13 16:19:46 git push origin master
+  997  2018-01-13 16:20:05 git status
+  998  2018-01-13 16:20:56 exit
+  999  2018-01-13 18:07:19 ls -la
+ 1000  2018-01-13 18:07:37 cd /opt/lampp/htdocs/wordpress-exp/
+ 1001  2018-01-13 18:08:24 ls -l
+ 1002  2018-01-13 18:14:15 cd..
+ 1003  2018-01-13 18:14:21 pwd
+ 1004  2018-01-13 18:14:33 git init fresh-copy
+ 1005  2018-01-13 18:14:40 cd fresh-copy/
+ 1006  2018-01-13 18:14:42 ls -la
+ 1007  2018-01-13 18:14:52 cd .git/
+ 1008  2018-01-13 18:14:54 ls -la
+ 1009  2018-01-13 18:15:02 cd.. git status
+ 1010  2018-01-13 18:15:07 git status
+ 1011  2018-01-13 18:15:12 git commit
+ 1012  2018-01-13 18:15:34 mate himster.txt
+ 1013  2018-01-13 18:15:48 touch abc.tzt
+ 1014  2018-01-13 18:15:56 vi abc.tzt 
+ 1015  2018-01-13 18:16:10 git add
+ 1016  2018-01-13 18:16:15 git add abc.tzt 
+ 1017  2018-01-13 18:16:35 git commit
+ 1018  2018-01-13 18:16:57 cd..
+ 1019  2018-01-13 18:17:06 git status
+ 1020  2018-01-13 18:17:10 cd fresh-copy/
+ 1021  2018-01-13 18:17:13 git status
+ 1022  2018-01-13 18:17:16 cd..
+ 1023  2018-01-13 18:17:21 rm -rf fresh-copy/
+ 1024  2018-01-13 18:22:37 mkdir new-project
+ 1025  2018-01-13 18:22:42 rm -mkdi
+ 1026  2018-01-13 18:22:46 rm new-project/
+ 1027  2018-01-13 18:22:53 rm -rf  new-project/
+ 1028  2018-01-13 18:22:55 ls -la
+ 1029* 2018-01-13 18:23:36 unzip /home/me/Downloads/initializr-verekia-4.0.zip
+ 1030  2018-01-13 18:24:21 ls -la
+ 1031  2018-01-13 18:24:28 ls -la /home
+ 1032  2018-01-13 18:24:40 ls -la /
+ 1033  2018-01-13 18:25:02 ls -la /home/me/Downloads/
+ 1034  2018-01-13 18:25:48 ls -la
+ 1035  2018-01-13 18:26:03 mv initializr/ new-project
+ 1036  2018-01-13 18:26:13 ls -la new-project/
+ 1037  2018-01-13 18:29:14 tree
+ 1038  2018-01-13 18:29:18 cnf tree
+ 1039  2018-01-13 18:30:02 tree -d new-project/
+ 1040  2018-01-13 18:30:08 zypper install tree
+ 1041  2018-01-13 18:31:00 tree -d new-project/
+ 1042  2018-01-13 18:31:16 tree -help
+ 1043  2018-01-13 18:31:29 tree new-project/
+ 1044  2018-01-13 18:37:15 cd new-project/
+ 1045  2018-01-13 18:37:17 ls -la
+ 1046  2018-01-13 18:37:21 git status
+ 1047  2018-01-13 18:37:24 git init
+ 1048  2018-01-13 18:37:31 git status
+ 1049  2018-01-13 18:37:38 git add .
+ 1050  2018-01-13 18:37:44 git commit 
+ 1051  2018-01-13 18:38:00 ls -la
+ 1052  2018-01-13 18:38:09 vi index.html 
+ 1053  2018-01-13 18:38:24 kate index.html 
+ 1054  2018-01-13 18:38:53 atom index.html 
+ 1055  2018-01-13 18:48:18 git status
+ 1056  2018-01-13 18:48:26 git add index.html 
+ 1057  2018-01-13 18:48:27 ls -la
+ 1058  2018-01-13 18:48:34 git ststus
+ 1059  2018-01-13 18:48:39 git status
+ 1060  2018-01-13 18:48:42 git commit
+ 1061  2018-01-13 18:49:03 ls -la
+ 1062  2018-01-13 18:49:13 git status
+ 1063  2018-01-13 18:54:26 cd,,
+ 1064  2018-01-13 18:54:28 cd..
+ 1065  2018-01-13 18:55:01 mv new-project/ starter-web-bootstrap
+ 1066  2018-01-13 18:55:04 ls -la
+ 1067  2018-01-13 18:55:09 cd starter-web-bootstrap/
+ 1068  2018-01-13 18:55:10 ls -la
+ 1069  2018-01-13 18:55:13 cd.. 
+ 1070  2018-01-13 18:55:20 mkdir projects
+ 1071  2018-01-13 18:55:25 cd projects/
+ 1072  2018-01-13 19:06:34 ls -la
+ 1073  2018-01-13 19:06:41 git clone git@github.com:govindjoshi/Bootstrap-Admin-Template.git
+ 1074  2018-01-13 19:17:04 ls -la
+ 1075  2018-01-13 19:17:10 cd Bootstrap-Admin-Template/
+ 1076  2018-01-13 19:17:12 ls -la
+ 1077  2018-01-13 19:38:28 history
+ 1078  2018-01-13 19:38:48 history > 12012018TerminalRoot.ttx
